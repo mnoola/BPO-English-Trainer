@@ -11,3 +11,12 @@
 - ❌ Highlights missed, extra, or incorrect words
 
 ---
+
+## How To RUN?
+- Script is tested on windows machine, pyaudio library used may fail in other environments
+- Download the files
+- Open Command Prompt or PowerShell
+- Navigate into the folder:
+- Create and activate virtual environment:
+- Install requirements
+- Run the script
